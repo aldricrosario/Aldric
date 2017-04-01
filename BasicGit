@@ -1,0 +1,14 @@
+@git clone url  Downloads
+
+@git add filename
+
+@git add file 1 file2 file3
+add file then commit
+every time u make a change add the file then commit it
+
+git status 
+--This gives the status 
+
+@git commit -m "write your message here"
+
+@git push 
