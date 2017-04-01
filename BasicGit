@@ -9,6 +9,20 @@ every time u make a change add the file then commit it
 git status 
 --This gives the status 
 
+git tells u how to unadd a file too
+
 @git commit -m "write your message here"
 
+we get an error of some email shit
+
+git wants to know ur email add and ur name. 
+
 @git push 
+
+amend a commit
+
+set remote!! whats a remote
+
+force push
+
+
